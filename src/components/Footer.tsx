@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t pt-6 text-center text-sm text-muted-foreground flex flex-col sm:flex-row justify-between items-center gap-4">
           <p>© 2025 Colegio Winnetka . Todos los derechos reservados.</p>
-          <p className="flex items-center gap-1">Desarrollado por <span className="font-medium text-foreground">All-In Dev Solutions</span></p>
+          <p className="flex items-center gap-1">Desarrollado por <span className="font-medium text-foreground">Nodux</span></p>
         </div>
       </div>
     </footer>
